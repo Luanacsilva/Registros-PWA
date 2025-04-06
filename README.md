@@ -1,9 +1,13 @@
 # 🗂️ Registros PWA — Aplicativo Progressivo com Frontend + Backend
 
 ![PWA Ready](https://img.shields.io/badge/PWA-ready-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Stack: Fullstack](https://img.shields.io/badge/stack-fullstack-blue)
+![Status: Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
+![Frontend: HTML/CSS/JS](https://img.shields.io/badge/frontend-HTML%2FCSS%2FJS-orange)
+![Backend: Node.js + Express](https://img.shields.io/badge/backend-Node.js%20%2B%20Express-lightgrey)
+![Instalável como App](https://img.shields.io/badge/app-installable-informational)
 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
 **Registros PWA** é uma aplicação web progressiva completa, com backend em Node.js + Express e frontend com funcionalidades de Progressive Web App (PWA), incluindo suporte a instalação, cache offline e estrutura modular.
