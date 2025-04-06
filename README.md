@@ -1,5 +1,8 @@
 # 🗂️ Registros PWA — Aplicativo Progressivo com Frontend + Backend
 
+![PWA Ready](https://img.shields.io/badge/PWA-ready-green)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
